@@ -7,10 +7,20 @@
 ## Features
 
 - **Multilingual Support**: Available in English, Chinese, Hindi, French, Spanish, German, and Arabic.
-- **Legal Categories**: Covers various legal domains, including contracts, complaints, disputes, and more.
-- **Customizable Inputs**: Users can provide detailed information about their legal situations for accurate results.
-- **Secure API Integration**: Powered by secure and efficient backend services.
+- **Customizable Inputs**: Users can provide detailed information about their country, role in the situation and descriptions on legal situations for accurate results.
+- **Secure API Integration**: Powered by secure and efficient backend services -- OpenAI GPT-4 model.
 - **Disclaimer**: AI-generated legal insights are not substitutes for professional legal advice.
+
+---
+
+## Built With
+
+- **[Streamlit](https://streamlit.io/):** A fast and intuitive framework for building data and AI applications with Python.
+- **[OpenAI API](https://openai.com/api/):** Powering the intelligent analysis and natural language capabilities of the app.
+- **[Python](https://www.python.org/):** The core programming language used for building the application.
+- **[dotenv](https://pypi.org/project/python-dotenv/):** For managing environment variables securely.
+- **[Requests](https://pypi.org/project/requests/):** For making HTTP requests to external APIs.
+- **[Streamlit Secrets Management](https://docs.streamlit.io/streamlit-community-cloud/secrets-management):** To securely manage sensitive data such as API keys.
 
 ---
 
