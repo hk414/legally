@@ -55,6 +55,8 @@ streamlit run main.py
 
 ## Security Best Practices
 
+- **Differential Privacy**: Ensure that outputs from the system do not reveal individual user data.
+- **Security Practices**: Use Bandit to scan the code for security flaws. Check for known vulnerabilities in third-party libraries and frameworks.
 - **Environment Variables**: Store sensitive data like API keys in `.env` or Streamlit Secrets.
 - **Ignore Sensitive Files**: Ensure `.env` and other sensitive files are added to `.gitignore`.
 
