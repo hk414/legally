@@ -1,0 +1,14 @@
+{
+  "title": "🏛️ Legally - Globaler Rechtsberater IA",
+  "description": "Willkommen beim **Legally Globalen Rechtsberater IA**, deinem virtuellen Assistenten für rechtliche Beratung. Bitte gib die Details zu deiner rechtlichen Situation an, und wir geben dir eine umfassende Analyse.",
+  "language_label": "Wählen Sie Ihre Sprache",
+  "country_label": "Geben Sie Ihr Land ein",
+  "role_label": "Wer sind Sie in dieser rechtlichen Situation?",
+  "category_label": "Wählen Sie die rechtliche Kategorie",
+  "situation_label": "Beschreiben Sie Ihre rechtliche Situation",
+  "agreement_label": "Benötigen Sie ein rechtliches Dokument (z. B. Vertrag)?",
+  "get_analysis_btn": "Rechtliche Analyse abrufen",
+  "analysis_title": "Ergebnisse der rechtlichen Analyse",
+  "learn_more": "Erfahren Sie mehr über ",
+  "disclaimer": "Dies ist eine von KI generierte rechtliche Beratung. Kein Ersatz für professionelle rechtliche Beratung. Konsultieren Sie lokale Rechtsexperten für spezifische Beratung."
+}

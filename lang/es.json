@@ -1,0 +1,14 @@
+{
+  "title": "🏛️ Legally - Asesor Legal IA",
+  "description": "Bienvenido al **Legally Asesor Legal IA**, su asistente virtual para orientación legal. Proporcione los detalles sobre su situación legal, y le daremos un análisis completo.",
+  "language_label": "Seleccione su idioma",
+  "country_label": "Ingrese su país",
+  "role_label": "¿Quién es usted en esta situación legal?",
+  "category_label": "Seleccione la categoría legal",
+  "situation_label": "Describa su situación legal",
+  "agreement_label": "¿Necesita un acuerdo legal (por ejemplo, un contrato)?",
+  "get_analysis_btn": "Obtener análisis legal",
+  "analysis_title": "Resultados del análisis legal",
+  "learn_more": "Más información sobre ",
+  "disclaimer": "Esto es orientación legal generada por IA. No es un sustituto del asesoramiento legal profesional. Consulte a expertos legales locales para obtener asesoramiento específico."
+}

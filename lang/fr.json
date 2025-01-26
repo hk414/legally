@@ -1,0 +1,14 @@
+{
+  "title": "🏛️ Legally - Votre conseiller juridique mondial",
+  "description": "Bienvenue sur le **Legally - Conseiller Juridique IA**, votre assistant virtuel pour des conseils juridiques. Fournissez les détails de votre situation juridique, et nous vous fournirons une analyse complète.",
+  "language_label": "Sélectionnez votre langue",
+  "country_label": "Entrez votre pays",
+  "role_label": "Qui êtes-vous dans cette situation juridique ?",
+  "category_label": "Sélectionnez la catégorie juridique",
+  "situation_label": "Décrivez votre situation juridique",
+  "agreement_label": "Avez-vous besoin d'un accord juridique (par exemple, un contrat) ?",
+  "get_analysis_btn": "Obtenir l'analyse juridique",
+  "analysis_title": "Résultats de l'analyse juridique",
+  "learn_more": "En savoir plus sur ",
+  "disclaimer": "Il s'agit de conseils juridiques générés par IA. Ce n'est pas un substitut à un conseil juridique professionnel. Consultez des experts juridiques locaux pour des conseils spécifiques."
+}

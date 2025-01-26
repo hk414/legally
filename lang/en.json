@@ -1,0 +1,14 @@
+{
+  "title": "🏛️ Legally - Your Global Legal Advisor",
+  "description": "Welcome to the **Legally**, your virtual assistant for legal guidance. Please provide the details about your legal situation, and we'll give you a comprehensive analysis.",
+  "language_label": "Select Your Language",
+  "country_label": "Enter Your Country",
+  "role_label": "Who are you in this legal situation?",
+  "category_label": "Select Legal Category",
+  "situation_label": "Describe Your Legal Situation",
+  "agreement_label": "Do you need a legal agreement (e.g., contract, complaint letter)?",
+  "get_analysis_btn": "Get Legal Analysis",
+  "analysis_title": "Legal Analysis Results",
+  "learn_more": "Learn more about ",
+  "disclaimer": "This is AI-generated legal guidance. Not a substitute for professional legal counsel. Consult local legal experts for specific advice."
+}

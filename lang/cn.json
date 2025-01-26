@@ -1,0 +1,14 @@
+{
+    "title": "🏛️ Legally - 你的全球法律顾问",
+    "description": "欢迎使用 **Legally 全球法律顾问**，您的虚拟法律指导助手。请提供您的法律情况详情，我们将为您提供全面的分析。",
+    "language_label": "选择您的语言",
+    "country_label": "输入您的国家",
+    "role_label": "您在此法律情况下的角色是什么？",
+    "category_label": "选择法律类别",
+    "situation_label": "描述您的法律情况",
+    "agreement_label": "您是否需要法律协议（例如合同）？",
+    "get_analysis_btn": "获取法律分析",
+    "analysis_title": "法律分析结果",
+    "learn_more": "了解更多关于 ",
+    "disclaimer": "这是由 AI 生成的法律指导。不能替代专业的法律咨询。请咨询当地法律专家以获取具体建议。"
+}
